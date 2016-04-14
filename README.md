@@ -1,11 +1,11 @@
 # To Do List
 
+####By Anna Becker | March 23, 2016
+
 #### Description
-A to do list project in Angular2 JS | March 23, 2016
+A to do list project in Angular2 JS
 
-####By Anna Becker
-
-
+####Setup
 Clone this repository. Open terminal and:
 
 ```
